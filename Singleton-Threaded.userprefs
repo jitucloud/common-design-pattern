@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{369B8513-1E24-4689-88DF-B3EE247974A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton-Threaded/Program.cs">
+    <Files>
+      <File FileName="Singleton-Threaded/Program.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Singleton-Threaded PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
